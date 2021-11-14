@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HasmitaPatnana7
-- 👀 I’m interested in open source contribution
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data science and Machine learning
+- 🌱 I’m currently learning Machine learning
+- 💞️ I’m looking to collaborate on Machine learning
 - 📫 How to reach me hasmita.patnana@gmail.com
 
 <!---
