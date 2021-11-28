@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HasmitaPatnana7
-- 👀 I’m interested in Data science and Machine learning
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on Machine learning
-- 📫 How to reach me hasmita.patnana@gmail.com
+- 👋 Hi, I’m @HasmitaPatnana
+- 👀 I’m interested in Data science,Machine learning and Web Develepment.
+- 🌱 I’m currently learning languages like python
+- 💞️ I’m looking to collaborate on Machine learning,Data science and Web development
+- 📫 How to reach me, pin me on my gmail;hasmita.patnana@gmail.com
 
 <!---
 HasmitaPatnana7/HasmitaPatnana7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
